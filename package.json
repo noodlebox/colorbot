@@ -1,0 +1,30 @@
+{
+  "name": "colorbot",
+  "version": "0.1.0",
+  "description": "Discord bot that colors users (via roles) based on their avatars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noodlebox/colorbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "color"
+  ],
+  "author": "noodlebox",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/noodlebox/colorbot/issues"
+  },
+  "homepage": "https://github.com/noodlebox/colorbot#readme",
+  "dependencies": {
+    "color-thief": "^2.2.2",
+    "eris": "^0.5.2",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {}
+}

@@ -3,7 +3,7 @@ const request = require("request");
 const ColorThief = require("color-thief");
 
 // Load config file
-const CONFIG_PATH = "./config";
+const CONFIG_PATH = "./config.json";
 
 var CONFIG;
 
